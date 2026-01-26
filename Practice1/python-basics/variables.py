@@ -16,3 +16,13 @@ x = "Python"
 y = "is"
 z = "awesome"
 print(x, y, z)
+
+x = "awesome"
+
+def myfunc():
+  x = "fantastic"
+  print("Python is " + x)
+
+myfunc()
+
+print("Python is " + x)
