@@ -1,2 +1,0 @@
-print("First Python practice!")
-
