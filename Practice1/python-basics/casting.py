@@ -15,3 +15,9 @@ a = 7.9
 b = int(a)         # float → int (7.9 → 7)
 print(b)
 print(type(b))
+
+
+c = 5
+d = float(c)       # int → float (5 → 5.0)
+print(d)
+print(type(d))
