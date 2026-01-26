@@ -6,3 +6,7 @@ print(x)
 
 x = ["apple", "banana", "cherry"]
 print(type(x))
+
+x = True
+print(type(x))
+
