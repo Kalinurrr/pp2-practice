@@ -10,3 +10,5 @@ print(type(x))
 x = True
 print(type(x))
 
+x = 20.5
+print(type(x))
