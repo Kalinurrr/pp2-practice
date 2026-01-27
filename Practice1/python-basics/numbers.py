@@ -21,4 +21,6 @@ print(type(x))
 print(type(y))
 print(type(z))
 
+#mix text and numbers
+print("I am", 35, "years old.")
 
